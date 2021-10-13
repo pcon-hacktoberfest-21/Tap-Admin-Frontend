@@ -1,0 +1,18 @@
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1;
+    background-color: blue;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
+
+.icon {
+    height: 30px;
+    width: 25px;
+    color: white;
+    margin: 5px;
+    border-color: black;
+}
